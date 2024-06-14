@@ -11,7 +11,7 @@
 
 | 产品名                 | 公司名                           | 链接                                   |
 |----------------------|--------------------------------|--------------------------------------|
-| 智谱平台| 月之暗面科技有限公司(Moonshot AI) | https://open.bigmodel.cn/dev/api#glm-4 |
+| 智谱平台| 智谱 | https://open.bigmodel.cn/dev/api#glm-4 |
 | 阿里云百炼       | 阿里云                            | https://bailian.aliyun.com/            |
 | 火山引擎               | 字节跳动                          | https://console.volcengine.com/ark      |
 | DeepSeek平台    | DeepSeek                       | https://platform.deepseek.com/usage    |
