@@ -19,7 +19,17 @@
 | Coze扣子              | 字节的ai agent平台，支持复杂的工作流，多样化的插件。并且可以介入公众号和服务号。                        | https://www.coze.cn/home                       |
 | Deepseek深度求索       | 有一个单独的写代码的模型，其他功能大同小异                                     | https://chat.deepseek.com/                      |
 | 文心一言                  | 百度产品，国产最拉胯之一， 不过考虑到是免费， 把他放在这里                                         | https://yiyan.baidu.com/                        |
- 
+
+### AI搜索
+以下是整理出的关于 Thinkany AI、天工AI 和 360AI 搜索 的信息：
+
+| 产品名                 | 功能                                                         | 链接                                             |
+|----------------------|------------------------------------------------------------|------------------------------------------------|
+| Thinkany AI          | 最强最良心ai搜索，提供快速准确的搜索结果。                     | [Thinkany AI](https://thinkany.ai/zh) (外服) [Thinkany AI](https://thinkany.so/zh)（国服） |
+| 360AI搜索             | 360的搜索引擎，能搜索到大量图片，但搜索能力不如Thinkany AI。 | [360AI搜索](https://www.sou.com/)           |
+| 天工ai           | AI搜索， 还有各种aigc功能 | https://www.tiangong.cn/         |
+| 秘塔AI            |AI搜索|https://metaso.cn/|
+请注意，表格中提到的 "天工AI" 并未在原始信息中找到对应的详细描述或链接，因此无法提供该产品的详细信息。如果有其他具体信息或需要进一步的查询，请告知。
 ### AI-Agent 助手搭建平台
  
 
