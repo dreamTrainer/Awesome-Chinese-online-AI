@@ -29,7 +29,7 @@
 |  1 | open code interpreter    | https://github.com/OpenCodeInterpreter/OpenCodeInterpreter |                                                             | 实现了类似openai code interpreter的功能                         |
 |  2 | pandas-ai                | https://github.com/Sinaptik-AI/pandas-ai                   |                                                             | 实现了chatbi的功能， 可以快速接入pandas                         |
 |  3 | dbgpt                    | https://github.com/eosphoros-ai/DB-GPT.git                 | https://www.yuque.com/eosphoros/dbgpt-docs/ew0kf1plm0bru2ga | 支持多种数据库                                                  |
-
+|  4 | vanna                    | https://github.com/vanna-ai/vanna              | https://zhuanlan.zhihu.com/p/690193634 | 支持多种数据库  ,支持自定义模型， OpenAI 接口                                                |
 
 # 知识库RAG
 |    | 项目               | 链接                                                                            |
