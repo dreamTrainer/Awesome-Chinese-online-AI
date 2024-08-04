@@ -8,7 +8,7 @@
 |  2 | flowise  | https://github.com/FlowiseAI/Flowise                       |        | langchain |                                                                                                     |
 |  3 | langflow | https://github.com/langflow-ai/langflow                    |        | langchain |                                                                                                     |
 |  4 | bisheng  | https://github.com/dataelement/bisheng/blob/main/README.md |        |           | 支持openai ， 各大ai平台api， 和本地模型https://dataelem.feishu.cn/wiki/MYIvwCtCtiIbvzkjkhacCrOQn9g |
-
+|  5 | maxkb  | https://github.com/1Panel-dev/MaxKB |        |           | 支持openai ， 各大ai平台api，   |
 
 # openai服务-模型中转
 |    | 项目       | 链接                                                                                                           | 兼容 OpenAI 的 RESTful API   | 多模型支持   | openai api接入支持   | UI管理页面                                   | 简介                                                                |
