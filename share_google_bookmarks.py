@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 from bs4 import BeautifulSoup
-
+# pandas 2 markdown sub_df.to_markdown(index=False)
 def dfs(tag,parent_name,result):
     # 打印当前标签
     new = parent_name
